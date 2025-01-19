@@ -1,6 +1,9 @@
 # ThinkVault
 
->  Made by Navneet Prakash Dubey for Kernel Synergy Task 1 
+>  Made by [Navneet Prakash Dubey](https://github.com/ThunderE75/) for Kernel Synergy Task 1 
+
+Think Vault is a powerful, user-friendly application designed to help you organize, manage, and access your notes with ease. Combining a robust backend API with a sleek and responsive frontend interface, Think Vault offers a seamless experience for users who value efficiency and security.
+
 
 <details>
   <summary>Task #1 Brief</summary>
@@ -34,6 +37,9 @@
 ## Instructions to run
 
 1. Clone this repo
+    ```
+    git clone https://github.com/ThunderE75/ThinkVault
+    ```
 
 1. Navigate to backend directory rename `.env.example` to `.env` 
 
